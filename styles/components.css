@@ -1,0 +1,9 @@
+.top-globals-nvg-bar {
+  display: flex;
+  flex-direction: row;
+}
+
+.top-globals-nvg-bar button {
+  color: #ffffff;
+  margin-right: 102px;
+}
